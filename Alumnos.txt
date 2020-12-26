@@ -1,0 +1,59 @@
+Javier Galán Méndez
+1001111
+Ingeniería Eléctrica,Electrónica y Automática
+1001111
+2
+4
+3
+2019
+SSS1111
+10
+2
+5
+2020
+SSS2222
+2
+2
+Informática Industrial I
+Ingeniería Eléctrica,Electrónica y Automática
+AAA1111
+creado
+6
+Robotica Industrial
+Ingeniería Eléctrica,Electrónica y Automática
+AAA2222
+creado
+6
+0
+Carlos Vigil González
+1002222
+Ingeniería Informática
+1002222
+0
+1
+Estructuras de Datos Y Algoritmos
+Ingeniería Informática
+AAA3333
+creado
+6
+1
+Ingeniería Informática
+TFE1111
+creado
+Daniel García Cano
+1003333
+Ingeniería Eléctrica,Electrónica y Automática
+1003333
+2
+4
+3
+2019
+SSS1111
+10
+2
+5
+2020
+SSS2222
+2
+0
+0

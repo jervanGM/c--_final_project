@@ -1,0 +1,7 @@
+Antes de comenzar a compilar y ejecutar el programa seguir las siguientes pautas:
+1.En la carpeta del programa, se encontrara este fichero y otros 6, estos 6 ficheros son necesarios para cargar los datos.
+2.Abre el qtcreator y compila el codigo tal y como esta.No ejecutar antes de esto
+3.Al compilar, se creará una carpeta build, en esa carpeta habrá que meter los 6 ficheros.
+4.Despues de meter los ficheros, se podrá ejecutar el programa sin problemas
+
+Este archivo es para aquellos que desconozcan del comportamiento inicial del codigo o no sepan de qtcreator

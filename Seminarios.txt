@@ -1,0 +1,38 @@
+4
+3
+2019
+10
+SSS1111
+creado
+1
+Tony Stark
+P333333
+1
+Alvaro Henández Hidalgo
+P222222
+2
+Javier Galán Méndez
+1001111
+Ingeniería Eléctrica,Electrónica y Automática
+Daniel García Cano
+1003333
+Ingeniería Eléctrica,Electrónica y Automática
+2
+5
+2020
+2
+SSS2222
+creado
+1
+Joaquín Martínez Soriano
+P111111
+1
+Tony Stark
+P333333
+2
+Javier Galán Méndez
+1001111
+Ingeniería Eléctrica,Electrónica y Automática
+Daniel García Cano
+1003333
+Ingeniería Eléctrica,Electrónica y Automática

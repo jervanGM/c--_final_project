@@ -1,0 +1,48 @@
+Informática Industrial I
+AAA1111
+6
+Ingeniería Eléctrica,Electrónica y Automática
+creado
+1
+Joaquín Martínez Soriano
+P111111
+1
+Alvaro Henández Hidalgo
+P222222
+1
+Javier Galán Méndez
+1001111
+Ingeniería Eléctrica,Electrónica y Automática
+4
+Robotica Industrial
+AAA2222
+6
+Ingeniería Eléctrica,Electrónica y Automática
+creado
+1
+Tony Stark
+P333333
+1
+Joaquín Martínez Soriano
+P111111
+1
+Javier Galán Méndez
+1001111
+Ingeniería Eléctrica,Electrónica y Automática
+8
+Estructuras de Datos Y Algoritmos
+AAA3333
+6
+Ingeniería Informática
+creado
+1
+Alvaro Henández Hidalgo
+P222222
+1
+Joaquín Martínez Soriano
+P111111
+1
+Carlos Vigil González
+1002222
+Ingeniería Informática
+0
